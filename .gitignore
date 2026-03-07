@@ -35,3 +35,12 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+
+# IDE files #
+######################
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
